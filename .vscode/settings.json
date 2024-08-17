@@ -1,0 +1,13 @@
+{
+    "json.schemas": [
+        
+    ],
+    "jdk.java.imports.groups": [
+        
+        "java",
+        "javax",
+        "org",
+        "com",
+        ""
+    ]
+}
